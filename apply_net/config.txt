@@ -1,1 +1,1 @@
-{"version": "100.1", "name": "dist,zip", "url": "https://github.com/cicadaStudio/software_config/raw/master/apply_net/dist.zip"}
+{"version": "100.1", "name": "dist.zip", "url": "https://github.com/cicadaStudio/software_config/raw/master/apply_net/dist.zip"}
